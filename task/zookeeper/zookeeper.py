@@ -127,5 +127,4 @@ while habitat != 'exit':
     habitat = input("Which habitat # do you need? ")
     if habitat != 'exit':
         print(animals[int(habitat)])
-
 print('See you!')
